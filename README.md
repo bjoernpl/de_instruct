@@ -23,7 +23,7 @@ To best enable knowledge transfer, an idea is to give the model some mix of data
 
 > How to obtain this data?
 
-Use open-source translation model ([No Language Left Behind](https://github.com/facebookresearch/fairseq/tree/nllb/)) to translate english [wikipedia](https://huggingface.co/datasets/wikipedia) to german (and maybe vice-versa to ensure high-quality german text).
+Use open-source translation model ([No Language Left Behind](https://github.com/facebookresearch/fairseq/tree/nllb/)) to translate english [wikipedia](https://huggingface.co/datasets/wikipedia) to german (and maybe vice-versa to ensure high-quality german text). [See here](./wikipedia_translation.md) for more details.
 
 ## Finetuning on an instruct dataset
 
